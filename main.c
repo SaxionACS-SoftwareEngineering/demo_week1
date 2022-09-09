@@ -1,5 +1,5 @@
 #include <stdio.h>
 
 int main(void){
-    puts("Hello, git!");
+    puts("Hello, git & Github!");
 }
